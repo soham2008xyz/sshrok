@@ -1,0 +1,32 @@
+{
+  "name": "sshrok",
+  "version": "1.0.0",
+  "description": "SSH over an ngrok tunnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests defined\"; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soham2008xyz/sshrok.git"
+  },
+  "keywords": [
+    "ssh",
+    "ngrok",
+    "node",
+    "pushbullet",
+    "tunnel",
+    "lt",
+    "localtunnel",
+    "nodejs"
+  ],
+  "author": "Soham Banerjee <soham@renderbit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soham2008xyz/sshrok/issues"
+  },
+  "homepage": "https://github.com/soham2008xyz/sshrok#readme",
+  "dependencies": {
+    "ngrok": "^2.2.14"
+  }
+}
