@@ -29,6 +29,6 @@
   "dependencies": {
     "dotenv": "^4.0.0",
     "ngrok": "^2.2.14",
-    "pushbullet": "^2.0.0"
+    "pushbullet": "^3.0.0"
   }
 }
