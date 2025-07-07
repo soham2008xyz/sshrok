@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/soham2008xyz/sshrok#readme",
   "dependencies": {
-    "dotenv": "^16.5.0",
+    "dotenv": "^17.0.1",
     "ngrok": "^4.3.3",
     "pushbullet": "^3.0.0"
   }
